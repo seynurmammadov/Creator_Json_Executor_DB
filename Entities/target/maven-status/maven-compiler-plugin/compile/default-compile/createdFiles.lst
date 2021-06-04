@@ -1,0 +1,8 @@
+Models\Student.class
+Models\Subject$SubjectBuilder.class
+Models\Teacher.class
+Models\Student$StudentBuilder.class
+Models\Grade.class
+Models\Teacher$TeacherBuilder.class
+Models\Subject.class
+Models\Grade$GradeBuilder.class
